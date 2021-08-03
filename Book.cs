@@ -27,7 +27,7 @@ Publsihedby = "";
 
 public void Display(){
 
-  Console.WriteLine("book " + Title + " was written by " + AuthorInfo + " and published on " + Publishedon);
+  Console.WriteLine("Book " + Title + " was written by " + AuthorInfo + " and published on " + Publishedon);
 }
 
 
